@@ -1,0 +1,18 @@
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.csprojAssemblyReference.cache
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.Properties.Resources.resources
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.csproj.GenerateResource.cache
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.exe.config
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.exe
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.pdb
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.MainFrame.resources
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.exe
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.pdb
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\bin\Debug\MarkReport.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\bin\Debug\MarkReport.exe
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\bin\Debug\MarkReport.pdb
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.MainFrame.resources
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.exe
+C:\Users\ASUS\OneDrive\Máy tính\FPT CN5\PRJ321 - Học lại\DoQuocTrung-Project\MarkReport\MarkReport\obj\Debug\MarkReport.pdb
